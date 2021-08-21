@@ -7,7 +7,7 @@
 ## To run the Api first Install the Dependencies 
 
 ```
-    pip install -r requirement.txt
+    pip install -r requirements.txt
 ```
 
 ## Run the `run.py` file to Start Api server
