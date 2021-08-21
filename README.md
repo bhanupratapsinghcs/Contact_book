@@ -17,9 +17,3 @@
 
 ## Now Api is Active At port [localhost:5000](http://localhost:5000/)
 
-After starting the Api server
-## For unit Testing run `test.py` file
-
-```
-    python test.py
-```
